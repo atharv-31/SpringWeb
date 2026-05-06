@@ -10,9 +10,9 @@
 
 <h1>
 
-ID: ${sid }<br>
-Name: ${sname }<br>
-Marks : ${smarks }<br>
+ID: ${stud.id }<br>
+Name: ${stud.name }<br>
+Marks : ${stud.marks }<br>
 
 </h1>
 
