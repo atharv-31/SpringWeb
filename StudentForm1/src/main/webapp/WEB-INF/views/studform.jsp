@@ -7,9 +7,16 @@
 <title>Insert title here</title>
 </head>
 <body>
-<body bgcolor="yellow">
 
-<h1>Hello Spring WEB MVC</h1>
+<form action="save" method="post">
+ID: <input type="text" name="id"><br>
+Name: <input type="text" name="name"><br>
+Marks: <input type="text" name="marks"><br>
+<input type="submit" value="SAVE">
+
+
+</form>
+
 
 </body>
 </html>
