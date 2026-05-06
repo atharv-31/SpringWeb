@@ -1,0 +1,10 @@
+package com.controller;
+
+
+public class HelloController {
+
+public String openWelcomePage() {
+	return "welcome";
+}
+	
+}
